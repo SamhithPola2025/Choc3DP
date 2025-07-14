@@ -9,4 +9,3 @@ We spent a lot of time perfecting the build and making sure that there is no err
 
 ## Pictures:
 ![unnamed](https://github.com/user-attachments/assets/2980ead8-9f5b-48a2-9040-03f060b91aa46)
-![unnamed1](https://github.com/user-attachments/assets/c10fb991-ded5-4b68-bbe6-2c5d79bfdb83)
