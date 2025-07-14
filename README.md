@@ -8,4 +8,5 @@ There are many 3D printers out there that already achieve the same thing, print 
 We spent a lot of time perfecting the build and making sure that there is no error, which took a while because aluminum foil is not even and out rack and pinion system was not the most accurate either. But in the end we got working prints which is shown in the images below!
 
 ## Pictures:
-![unnamed](https://github.com/user-attachments/assets/2980ead8-9f5b-48a2-9040-03f060b91aa46)
+![unnamed1](https://github.com/user-attachments/assets/c10fb991-ded5-4b68-bbe6-2c5d79bfdb83)
+![unnamed](https://github.com/user-attachments/assets/bc4101ed-4bb7-445c-af49-cd3489e11211)
